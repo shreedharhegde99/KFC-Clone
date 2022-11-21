@@ -1,4 +1,4 @@
-# Treasury Trip
+# KFC Clone
 
 :point_right: Visit the deployed website [here](https://kfc-clone-spry-smash-650.netlify.app/)
 
